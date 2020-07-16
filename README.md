@@ -147,4 +147,4 @@ Click on submit button and you should see below screen.
 
 ![Screenshot](mainwindow.png)  
 
-You can other logic based on your need, in case you need any help then you can always reach me. Happy tkintering!!  
+You can add application logic based on your need, in case you need any help then you can always reach me. Happy tkintering!!  
