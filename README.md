@@ -140,7 +140,11 @@ mainroot.state('zoomed')
 MainWindow(mainroot)    
 mainroot.mainloop() 
 ```
-Thats it, we are done, run login.py file and you should see screen  
+Thats all, we are done, run login.py file and you should see below login screen  
 ![Screenshot](login.png)  
+
 Click on submit button and you should see below screen.  
-![Screenshot](mainwindow.png)
+
+![Screenshot](mainwindow.png)  
+
+You can other logic based on your need, in case you need any help then you can always reach me. Happy tkintering!!  
