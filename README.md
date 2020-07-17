@@ -141,10 +141,10 @@ MainWindow(mainroot)
 mainroot.mainloop() 
 ```
 Thats all, we are done, run login.py file and you should see below login screen  
-![Screenshot](login.png)  
+![Screenshot](images/login.png)  
 
 Click on submit button and you should see below screen.  
 
-![Screenshot](mainwindow.png)  
+![Screenshot](images/mainwindow.png)  
 
 You can add application logic based on your need, in case you need any help then you can always reach me. Happy tkintering!!  
